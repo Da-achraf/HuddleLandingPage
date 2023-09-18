@@ -36,10 +36,15 @@ Install dependencies
 Open your browser and navigate to http://localhost:4200/ to see the application in action
 
 ## Screenshots
-| Desktop        | Mobile        |
-| -------------- | --------------|
-| ![Logo](https://raw.githubusercontent.com/Da-achraf/HuddleLandingPage/gh-pages/preview_images/desktop.png)  | ![Logo](https://raw.githubusercontent.com/Da-achraf/HuddleLandingPage/gh-pages/preview_images/mobile.png)   |
-
+<table>
+  <thead>
+    <th>Desktop</th>
+    <th>Mobile</th>
+  </thead>
+  <tbody>
+    <tr></tr>
+  </tbody>
+</table>
 
 
 ## Credits
